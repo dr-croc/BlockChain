@@ -50,6 +50,9 @@ so one change in one nodes, can affect the whole block chain.
 So here comes the work mining, which is to finding the block or hash code which created this problem , and it takes a lot fo computation power
 which is why we need a lot of GPU for this reason.  Nodes get paid for finding  the block which created the issue. 
 
+# private key 
+it is used to digitally signed the contract, and have the information and no body should know about your private key. 
+
 
 
 
