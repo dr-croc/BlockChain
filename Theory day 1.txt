@@ -46,7 +46,7 @@ Hash -> Block -> BlockChain -> Distributed -> Tokens
 So  as we know that, if we change some thing in the block chain , as it connected with all the nodes, 
 so one change in one nodes, can affect the whole block chain. 
 
-Mining : So here comes the work mining, which is to finding the block or hash code which created this problem , and it takes a lot fo computation power
+#Mining : So here comes the work mining, which is to finding the block or hash code which created this problem , and it takes a lot fo computation power
 which is why we need a lot of GPU for this reason.  Nodes get paid for finding  the block which created the issue. 
 
 
