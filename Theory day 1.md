@@ -11,7 +11,7 @@ Importance of block chain
 Gas: Gas is a unit of computational meassure. The more computation a trasaction uses, the more "gas" you have to pay for. Every transaction that happen 
 on chain pays "gas fee", to node operators. 
 
-Mathmatics of gas: 
+# Mathmatics of gas: 
 Gas : Measure of computation use
 Gas price: How much it costs per unit of gas
 Gas limit: Max amount of gas in a tranasaction 
@@ -34,7 +34,7 @@ Block: Block aslo generate a unique hash function, but it consist of Block, nonc
 
 Blockchain : So in case of block chain, it consist of different blocks which also consist of all the things, that was mention before. 
 
-So everything goes in this flow : 
+# So everything goes in this flow : 
 
 Hash -> Block -> BlockChain -> Distributed -> Tokens 
 
@@ -46,7 +46,8 @@ Hash -> Block -> BlockChain -> Distributed -> Tokens
 So  as we know that, if we change some thing in the block chain , as it connected with all the nodes, 
 so one change in one nodes, can affect the whole block chain. 
 
-# Mining : So here comes the work mining, which is to finding the block or hash code which created this problem , and it takes a lot fo computation power
+# Mining : 
+So here comes the work mining, which is to finding the block or hash code which created this problem , and it takes a lot fo computation power
 which is why we need a lot of GPU for this reason.  Nodes get paid for finding  the block which created the issue. 
 
 
